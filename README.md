@@ -51,6 +51,6 @@ This project taught me to create hover animations for the buttons. I also spent 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- GitHub - [vapppu](https://github.com/vapppu)
+- Frontend Mentor - [@vapppu](https://www.frontendmentor.io/profile/vapppu)
+- LinkedIn - [Veera Hiltunen](https://www.linkedin.com/in/veera-hiltunen-219a55235/)
