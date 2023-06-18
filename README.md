@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/vapppu/frontendmentor-3-column-preview-card-component)
-- Live Site URL: [Add live site URL here](https://vapppu.github.io/frontendmentor-3-column-preview-card-component/)
+- Solution URL: [https://github.com/vapppu/frontendmentor-3-column-preview-card-component](https://github.com/vapppu/frontendmentor-3-column-preview-card-component)
+- Live Site URL: [https://vapppu.github.io/frontendmentor-3-column-preview-card-component/](https://vapppu.github.io/frontendmentor-3-column-preview-card-component/)
 
 ## My process
 
